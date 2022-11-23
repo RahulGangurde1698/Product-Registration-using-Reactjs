@@ -5,7 +5,7 @@ Create project with React, NodeJS and mongodb Atlas ,having addproducts and stor
 ![Screenshot (13)](https://user-images.githubusercontent.com/109671480/203365206-9f2ce133-efcd-45d7-b4eb-cbc7aea3f61a.png)
 
 
-2)products added to database.
+2)products added to  mongodb atlas database.
 
 
 
