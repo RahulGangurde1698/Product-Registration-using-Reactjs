@@ -1,4 +1,4 @@
-# React-node-mongo
+# React JS-Node JS-MongoDB
 Create project with React, NodeJS and mongodb Atlas ,having addproducts and stored data shows in Allproducts
 1)Add Products and shows warning for same "Name" all data save to backend
 
